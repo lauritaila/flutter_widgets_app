@@ -14,4 +14,5 @@ const appMenuItems = <MenuItem>[
   MenuItem(title: 'Buttons', subtitle: 'Flutter Buttons ', link: '/buttons', icon: Icons.smart_button_outlined),
   MenuItem(title: 'Cards', subtitle: 'Flutter Cards', link: '/cards', icon: Icons.credit_card_outlined),
   MenuItem(title: 'Progress Indicators', subtitle: 'Generals and controlled', link: '/progress', icon: Icons.refresh_rounded),
+  MenuItem(title: 'Snackbar & Dialogs', subtitle: 'Screen Alerts and Dialogs', link: '/snackbar', icon: Icons.info_outline_rounded),
 ];
