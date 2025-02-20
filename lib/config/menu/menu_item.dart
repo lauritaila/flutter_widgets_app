@@ -18,4 +18,5 @@ const appMenuItems = <MenuItem>[
   MenuItem(title: 'Animated Container', subtitle: 'Screen Animated', link: '/animated', icon: Icons.check_box_outline_blank_rounded),
   MenuItem(title: 'UI Controls + Tiles', subtitle: 'Some controls in Flutter', link: '/ui-controls', icon: Icons.check_circle_outline_rounded),
   MenuItem(title: 'Tutorial', subtitle: 'Flutter Tutorial PageView', link: '/tutorial', icon: Icons.book_rounded),
+  MenuItem(title: 'Infinite Scroll and pull to refresh', subtitle: 'Flutter Infinite Scroll and pull to refresh', link: '/infiniteScroll', icon: Icons.list_alt_rounded),
 ];
