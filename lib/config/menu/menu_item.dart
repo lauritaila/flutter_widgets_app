@@ -19,4 +19,5 @@ const appMenuItems = <MenuItem>[
   MenuItem(title: 'UI Controls + Tiles', subtitle: 'Some controls in Flutter', link: '/ui-controls', icon: Icons.check_circle_outline_rounded),
   MenuItem(title: 'Tutorial', subtitle: 'Flutter Tutorial PageView', link: '/tutorial', icon: Icons.book_rounded),
   MenuItem(title: 'Infinite Scroll and pull to refresh', subtitle: 'Flutter Infinite Scroll and pull to refresh', link: '/infiniteScroll', icon: Icons.list_alt_rounded),
+  MenuItem(title: 'Riverpod Counter', subtitle: 'Flutter Riverpod Counter', link: '/counter', icon: Icons.add_rounded),
 ];
