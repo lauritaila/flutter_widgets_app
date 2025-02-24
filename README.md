@@ -56,8 +56,12 @@ Welcome to **WidgetLab**, a Flutter-based application designed to showcase and e
 
 ## 📷 Screenshots
 
-<img src="screenshots/buttons_example.png" height="350" alt="Buttons Example" />
-<img src="screenshots/cards_example.png" height="350" alt="Cards Example" />
+<img src="screenshots/screenshot1.jpeg" height="350" alt="theme light Example" />
+<img src="screenshots/screenshot2.jpeg" height="350" alt="theme dark Example" />
+<img src="screenshots/screenshot3.jpeg" height="350" alt="buttons light Example" />
+<img src="screenshots/screenshot4.jpeg" height="350" alt="buttons dark Example" />
+<img src="screenshots/screenshot5.jpeg" height="350" alt="Side Menu Example" />
+<img src="screenshots/screenshot6.jpeg" height="350" alt="Home Example" />
 
 ## 💻 Requirements
 
