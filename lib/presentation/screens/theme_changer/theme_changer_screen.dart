@@ -43,8 +43,8 @@ class _ThemeChangerView extends ConsumerWidget {
       itemBuilder: (context, index) {
         final color = colors[index];
         return RadioListTile(
-          title: Text("this is color $index", style: TextStyle(color: color),),
-          subtitle: Text(color.toString()),
+          title: Text("This is color $index", style: TextStyle(color: color),),
+          subtitle: Text('Choose this color'),
           activeColor: color,
           value: index, 
           groupValue: colorSelected, 
